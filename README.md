@@ -22,7 +22,9 @@ Contains the reference files used in the project
 
 ### For future contributors:
 -File name should be in Snake case with first Letter capital
+
 -Folder name should be clear words seperated by underscore
+
 -Future contributors can add files in the appropriate folders else create a seperate folder for their files according to the     naming given above
 
 
